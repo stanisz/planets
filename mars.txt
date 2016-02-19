@@ -1,1 +1,6 @@
 Mars jest czerwona planeta
+
+kolejne linie kodu
+kolejne linie kodu
+
+end
